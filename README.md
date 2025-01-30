@@ -1,5 +1,5 @@
 # BinodonTv
-Binodon Live TV App - Created by Rurxsoft
+Binodon Live TV App - Created by Rurxsoft |
 Screenshots from the application
 
 ![Screenshot_20250130_232116](https://github.com/user-attachments/assets/60cffc72-d5cd-4154-be85-edef344c5364)
